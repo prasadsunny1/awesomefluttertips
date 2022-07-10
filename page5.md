@@ -6,6 +6,8 @@ Convert a `JSON` into `Dart class` with `fromJSON()` and `toJSON()` methods easi
 
 Just **paste your JSON** and select `dart` from languages (right-top), you will get the `dart class`.
 
+It also supports creating `Freezed` classes.
+
  try quicktype
 
 [app.quicktype.io](app.quicktype.io)
